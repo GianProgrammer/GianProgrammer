@@ -8,7 +8,7 @@
   
 - 💞️ I’m looking to collaborate on projects that involve automation, web development, or creative programming ideas. I value teamwork and enjoy contributing to projects where I can share and learn new skills.
   
-- 📫 How to reach me Feel free to contact me via email or social media. I’m always open to connecting with people who share similar interests or have exciting projects in mind.
+- 📫 How to reach me: Feel free to contact me via email or social media. I’m always open to connecting with people who share similar interests or have exciting projects in mind.
 
 - ⚡ Fun fact: I know the first 25 digits of Pi! This reflects my interest in mathematics and problem-solving. Also, I take pride in my soft skills, such as effective communication, adaptability, and teamwork, which I believe are just as important as technical expertise.
 
